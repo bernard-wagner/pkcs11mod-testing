@@ -1,0 +1,4 @@
+[submodule "pkcs11mod"]
+	path = pkcs11mod
+	url = https://github.com/bernard-wagner/pkcs11mod.git
+	branch = complete-ctx
